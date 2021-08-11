@@ -1,0 +1,4 @@
+# The notebooks are just for testing
+*.ipynb
+.ipynb_checkpoints/
+*.pyc
