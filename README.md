@@ -3,4 +3,4 @@
 Python Chemistry Package
 
 ### Website
-<a href="https://kaeple.com/">Kaeple.com</a>
+<a href="https://kaeple.com/" target="_blank">Kaeple.com</a>
