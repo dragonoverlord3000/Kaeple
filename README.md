@@ -1,6 +1,16 @@
 # Kaeple
 
-Python Chemistry Package
+<em>Kaeple</em> is a Python Chemistry Package that can:
+- Format reactions
+- Balance reactions
+- Calculate pH in mixes of acids and bases
+- Make titration curves
+- Bjerrum plots 
+- and a lot more...
 
-### Website
-<a href="https://kaeple.com/" target="_blank">Kaeple.com</a>
+### How to use
+...
+
+### GUI
+On our <a href="https://kaeple.com/">website</a> we have a free GUI for the kaeple package.
+
