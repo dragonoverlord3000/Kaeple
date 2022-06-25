@@ -9,7 +9,7 @@
 - and a lot more...
 
 ### How to use
-Go to <a href="[https://kaeple.com/](https://kaeple.com/download.html)">kaeple.com/download</a> and download the most up-to date version there.
+Go to the kaeple <a href="[https://kaeple.com/](https://kaeple.com/download.html)">website</a> and download the most up-to date version there.
 
 ### GUI
 On our <a href="https://kaeple.com/">website</a> we have a free GUI for the kaeple package.
